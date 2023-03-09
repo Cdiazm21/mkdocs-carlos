@@ -9,7 +9,7 @@ Por último, vamos a tener en la máquina backend los scripts para crear el serv
 Bien, ahora explicado esto vamos a irnos a la maquina frontend. En esta maquina vamos a tener 3 archivos, el install, el deploy y un archivo con las variables:
 Las variables que vamos a usar son:
 
-![](img/Fotos7/3.PNG)
+![](../img/Fotos7/3.PNG)
 
 El install del front es instalar apache y sus módulos PHP:
 
