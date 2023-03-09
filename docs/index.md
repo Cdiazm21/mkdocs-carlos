@@ -4,4 +4,4 @@ Vamos a poner aqui un resumen de las practicas que hemos estado haciendo durante
 
 Esto puedes encontrarlo en la seccion de Primer trimestre y Segundo trimestre
 
-![Funciona?](../img/Fotos7/iawfoto.png)
+![Funciona?](https://github.com/Cdiazm21/mkdocs-carlos/blob/main/img/Fotos7/iawfoto.png?raw=true)
