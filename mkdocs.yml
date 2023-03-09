@@ -1,0 +1,20 @@
+site_name: Carlos
+
+nav:
+    - Principal: index.md
+    - Acerca de: about.md
+    - Primer trimestre:
+      - Practica 7: practica7.md
+      - Practica 8: practica8.md
+      - Practica 9: practica9.md
+    - Segundo trimestre:
+      - Practica 14-1: practica14-1.md
+      - Practica 14-2: practica14-2.md
+      - Practica 14-4: practica14-4.md
+
+
+theme:
+  name: material
+
+  palette: 
+    primary: green
