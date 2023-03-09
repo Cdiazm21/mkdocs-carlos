@@ -4,4 +4,4 @@ Vamos a poner aqui un resumen de las practicas que hemos estado haciendo durante
 
 Esto puedes encontrarlo en la seccion de Primer trimestre y Segundo trimestre
 
-![Funciona?](../img/1.png)
+![Funciona?](../img/Fotos7/1.png)
